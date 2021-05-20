@@ -1,0 +1,17 @@
+.center {
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+height: 200px;
+border: 5px solid #1d1d1b;
+padding: 10px;
+text-align: center;
+color: white;
+background: blueviolet;
+background-color: blueviolet;
+
+    }
+    .text{
+        font-size: 500%;
+    }
